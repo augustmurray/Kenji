@@ -1,0 +1,96 @@
+.kenji-image {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.kenji-image-2 {
+  height: 393px;
+  width: 275px;
+  display: flex;
+  align-content: center;
+  justify-content: center;
+}
+
+a:hover{
+  font-size: 25px;
+  color: red
+}
+
+.ability-size{
+  height: 100px;
+  width: 100px;
+}
+
+.hyper {
+  width: 85px;
+  height: 100px;
+}
+
+body {
+  background-color:orange;
+}
+
+.gadget-info{
+  border: solid 5px;
+  border-color: forestgreen;
+  border-radius: 10px;
+  color: white;
+  font-family: fantasy;
+  background-color: black;
+}
+
+.star-power-info{
+  border: solid 5px;
+  border-color: yellow;
+  border-radius: 10px;
+  color: white;
+  font-family: cursive;
+  background-color: black;
+}
+
+.hypercharge-info{
+  border: solid 5px;
+  border-color: mediumpurple;
+  border-radius: 10px;
+  color: white;
+  font-family: cursive;
+  background-color: black;
+}
+
+.html-link{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+}
+
+.lore-info{
+  border: solid 5px;
+  border-color: darkgreen;
+  border-radius: 10px;
+  color: white;
+  font-family: cursive;
+  background-color: black;
+}
+
+.Description-info{
+  border: solid 5px;
+  border-color: crimson;
+  border-radius: 5px;
+  color: white;
+  font-family: cursive;
+  background-color: black;
+}
+
+.flex-container {
+  display: flex;
+  align-items: center;
+  grid-gap: 20px;
+  border: solid 5px;
+  border-color: crimson;
+  border-radius: 10px;
+  color: white;
+  font-family: cursive;
+  background-color: black;
+}
