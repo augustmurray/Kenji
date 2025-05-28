@@ -94,3 +94,13 @@ body {
   font-family: cursive;
   background-color: black;
 }
+
+
+figcaption {
+  opacity: 0;
+}
+
+figure:hover figcaption {
+  opacity: 1;
+}
+
